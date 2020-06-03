@@ -2,6 +2,7 @@ html, body {
     height: 100%;
 }
 
+/* Added background to webpage for personalization.*/
 body {
     background-image: url("https://image.freepik.com/free-vector/floral-seamless-pattern-with-leaves-herbs-hand-drawn-sketch-line-illustration-simple-scandinavian-style-limited-pastel-color_165705-42.jpg");
 }
@@ -10,6 +11,7 @@ main {
     padding-bottom:100px;
 }
 
+/* Attributes for the left alignment and resizing of headshot.*/
 .headshot {
     margin: 20px;
     float: left;
@@ -21,6 +23,7 @@ main {
     margin: 20px;
 }
 
+/* Caption blocks for portfolio images.*/
 .text-block {
     position: absolute;
     justify-content: center;
@@ -39,6 +42,7 @@ main {
     margin: 20px;
 }
 
+/* Attributes for social media icons, so that they are properly distrbuted on the page.*/
 .socialIcons {
     list-style-type: none;
     margin-left: auto;
@@ -46,6 +50,7 @@ main {
     max-width: 300px;
 }
 
+/* Hides bullet points of listed social media icons.*/
 .logo {
     display: block;
 }
@@ -54,6 +59,7 @@ main {
     margin: 20px;
 }
 
+/* Sticky footer attributes, so that it remains fixed at bottom of page.*/
 .footer {
     position: fixed;
     left: 0;
@@ -64,6 +70,7 @@ main {
     text-align: center;
 }
 
+/* Attributes to properly space out the images of the portfolio page.*/
 .image {
     margin: 20px;
     width: 250px;
