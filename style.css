@@ -1,16 +1,20 @@
+html, body {
+    height: 100%;
+}
+
 body {
     background-image: url("https://image.freepik.com/free-vector/floral-seamless-pattern-with-leaves-herbs-hand-drawn-sketch-line-illustration-simple-scandinavian-style-limited-pastel-color_165705-42.jpg");
- }
+}
 
-.btn, .btn-primary, .btn-primary:hover, .btn-primary:active, .btn-primary:visited {
-    background-color: indigo;
+main {
+    padding-bottom:100px;
 }
 
 .headshot {
     margin: 20px;
     float: left;
-    width: 200px;
-    height: 300px;
+    width: 175px;
+    height: 250px;
 }
 
 .myPortfolio {
@@ -27,21 +31,19 @@ body {
 
 .portfolioType {
     text-align: center;
-    margin: 10px;
+    margin: 20px;
 }
 
 .myBio {
-    width: 800px;
     text-align: justify;
     margin: 20px;
-    float: left;
 }
 
 .socialIcons {
     list-style-type: none;
     margin-left: auto;
     margin-right: auto;
-    max-width: 100px;
+    max-width: 300px;
 }
 
 .logo {
