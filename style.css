@@ -1,9 +1,44 @@
-/*body {
-    background-image: url("https://st2.depositphotos.com/5454582/10957/v/950/depositphotos_109576954-stock-illustration-black-and-white-pattern-poppies.jpg");
- }*/
+body {
+    background-image: url("https://image.freepik.com/free-vector/floral-seamless-pattern-with-leaves-herbs-hand-drawn-sketch-line-illustration-simple-scandinavian-style-limited-pastel-color_165705-42.jpg");
+ }
 
-.btn-primary, .btn-primary:hover, .btn-primary:active, .btn-primary:visited {
+.btn, .btn-primary, .btn-primary:hover, .btn-primary:active, .btn-primary:visited {
     background-color: indigo;
+}
+
+.headshot {
+    margin: 20px;
+    float: left;
+    width: 200px;
+    height: 300px;
+}
+
+.myPortfolio {
+    margin: 20px;
+}
+
+.text-block {
+    position: absolute;
+    justify-content: center;
+    bottom: 5px;
+    background-color: rosybrown;
+    color: white;
+}
+
+.portfolioType {
+    text-align: center;
+    margin: 10px;
+}
+
+.myBio {
+    width: 800px;
+    text-align: justify;
+    margin: 20px;
+    float: left;
+}
+
+.contactForm {
+    margin: 20px;
 }
 
 .footer {
@@ -11,12 +46,13 @@
     left: 0;
     bottom: 0;
     width: 100%;
-    background-color: darkgrey;
+    background-color: darkgray;
     color: white;
     text-align: center;
 }
 
 .image {
-    margin: 10px;
-
+    margin: 20px;
+    width: 250px;
+    height: 250px;
 }
