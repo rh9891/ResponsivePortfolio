@@ -1,0 +1,22 @@
+/*body {
+    background-image: url("https://st2.depositphotos.com/5454582/10957/v/950/depositphotos_109576954-stock-illustration-black-and-white-pattern-poppies.jpg");
+ }*/
+
+.btn-primary, .btn-primary:hover, .btn-primary:active, .btn-primary:visited {
+    background-color: indigo;
+}
+
+.footer {
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    background-color: darkgrey;
+    color: white;
+    text-align: center;
+}
+
+.image {
+    margin: 10px;
+
+}
