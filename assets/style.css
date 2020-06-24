@@ -42,6 +42,10 @@ main {
 
 }
 
+.portfolioOther {
+    padding: 10px;
+}
+
 .myBio {
     text-align: justify;
     margin: 20px;
