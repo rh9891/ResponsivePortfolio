@@ -34,7 +34,12 @@ main {
 
 .portfolioType {
     text-align: center;
-    margin: 20px;
+    padding: 20px;
+    justify-content: center;
+    bottom: 5px;
+    background-color: rosybrown;
+    color: white;
+
 }
 
 .myBio {
@@ -42,12 +47,20 @@ main {
     margin: 20px;
 }
 
-/* Attributes for social media icons, so that they are properly distrbuted on the page.*/
+/* Attributes for social media icons, so that they are properly distributed on the page.*/
 .socialIcons {
     list-style-type: none;
     margin-left: auto;
     margin-right: auto;
-    max-width: 300px;
+    max-width: 400px;
+}
+
+.linkedIn {
+    margin-left: 100px;
+}
+
+a.float-left.linkedIn {
+    margin-right: 50px;
 }
 
 /* Hides bullet points of listed social media icons.*/
