@@ -12,7 +12,7 @@ I created a website with a responsive design that can be used dynamically across
 
 # Preview Images of Responsive Website
 
-<img src="images/aboutPreview.png">
+<img src="assets/images/aboutPreview.png">
 
-<img src="images/portfolioPreview.png">
+<img src="assets/images/portfolioPreview.png">
 
