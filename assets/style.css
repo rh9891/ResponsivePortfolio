@@ -24,7 +24,60 @@ main {
 }
 
 /* Caption blocks for portfolio images.*/
-.text-block {
+#projectCard {
+    margin-top: 60px;
+}
+
+#container {
+    margin-left: 175px;
+}
+
+.card-header {
+    font-size: 16px;
+    text-align: center;
+    color: rosybrown;
+
+}
+
+#githubButton, #deployButton {
+    margin-top: 20px;
+    margin-left: 20px;
+    background-color: rosybrown;
+    border: none;
+}
+
+#githubButton {
+    margin-left: 30px;
+}
+
+#deployButton2 {
+    margin-top: 40px;
+    margin-left: 20px;
+    background-color: rosybrown;
+    border: none;
+}
+
+#deployButton3 {
+    margin-top: 40px;
+    margin-left: 20px;
+    background-color: rosybrown;
+    border: none;
+}
+
+#deployButton4 {
+    margin-top: 50px;
+    margin-left: 20px;
+    background-color: rosybrown;
+    border: none;
+}
+
+#deployButton5 {
+    margin-top: 70px;
+    margin-left: 20px;
+    background-color: rosybrown;
+    border: none;
+}
+/* .text-block {
     position: absolute;
     justify-content: center;
     bottom: 5px;
@@ -40,7 +93,7 @@ main {
     background-color: rosybrown;
     color: white;
 
-}
+} */
 
 .portfolioOther {
     padding: 10px;
