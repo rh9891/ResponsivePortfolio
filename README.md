@@ -1,18 +1,57 @@
 # Responsive Portfolio
 
-# Description
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
-I created a website with a responsive design that can be used dynamically across different devices and differing screen sizes. Using several images as references, I  went on to recreate the website, so that it was framed similar to the provided example. I created the website to have a responsive design by including the appropriate img-fluid and container-fluid tags and made the website accessible by using only semantic elements and including the appropriate alt tags for the all the pictures used.
+## Table of Contents
 
-# Links
+- [Description](#description)
+- [Preview of the Responsive Portfolio](#preview-of-the-responsive-portfolio)
+- [Links](#links)
+- [Built Using](#built-using)
+- [License](#license)
+- [Contributing](#contributing)
+- [Questions](#questions)
 
-1. [Github Repository](https://github.com/rh9891/ResponsivePortfolio/)
+## Description
 
-2. [Deployed Application](https://rh9891.github.io/ResponsivePortfolio/)
+The Responsive Portfolio is a personalized website with a responsive design that can be rendered dynamically on a variety of devices and window or screen sizes. The navbar is consistent on each page and contains links to the About, Contact, and Portfolio pages. The website was created to have a responsive design by including the appropriate img-fluid and container-fluid tags. The website is also accessible through the use of semantic elements and the inclusion of appropriate alt tags for all of the pictures used in the application.
 
-# Preview Images of Responsive Website
+In developing the application, an HTML validation service was used to ensure that each page had valid HTML. The application was built using the Bootstrap CSS framework, HTML, and CSS.
 
-<img src="assets/images/aboutPreview.png">
+## Preview of the Responsive Portfolio
 
-<img src="assets/images/portfolioPreview.png">
+![About Me Preview](assets/images/aboutPreview.png)
 
+![Portfolio Preview](assets/images/portfolioPreview.png)
+
+## Links
+
+- [Github Repository](https://github.com/rh9891/ResponsivePortfolio/)
+
+## Built Using
+
+Listed below are the frameworks, libraries, and guides that made building this application possible:
+
+- [Bootstrap](https://reactjs.org/docs/context.html)
+- [CSS](https://www.w3schools.com/css/)
+- [HTML](https://getbootstrap.com/docs/4.5/getting-started/introduction/)
+
+## License
+
+The MIT License (MIT)
+
+Copyright (c) 2020 Romie Hecdivert
+
+Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
+
+## Contributing
+
+If you would like to contribute to this repository, please contact me via [Github](https://github.com/rh9891).
+
+## Questions
+
+If you have any questions, comments, or issues regarding this application, please do not hesitate to contact me via [Github](https://github.com/rh9891).
