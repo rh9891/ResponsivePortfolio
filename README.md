@@ -16,7 +16,7 @@
 
 The Responsive Portfolio is a personalized website with a responsive design that can be rendered dynamically on a variety of devices and window or screen sizes. The navbar is consistent on each page and contains links to the About, Contact, and Portfolio pages. The website was created to have a responsive design by including the appropriate img-fluid and container-fluid tags. The website is also accessible through the use of semantic elements and the inclusion of appropriate alt tags for all of the pictures used in the application.
 
-In developing the application, an HTML validation service was used to ensure that each page had valid HTML. The application was built using the Bootstrap CSS framework, HTML, and CSS.
+In developing the application, an HTML validation service was used to ensure that each page had valid HTML. The application was built using HTML, CSS, and the Bootstrap CSS framework.
 
 ## Preview of the Responsive Portfolio
 
