@@ -5,36 +5,13 @@
 ## Table of Contents
 
 - [Description](#description)
-- [Preview of the Responsive Portfolio](#preview-of-the-responsive-portfolio)
-- [Links](#links)
-- [Built Using](#built-using)
 - [License](#license)
 - [Contributing](#contributing)
 - [Questions](#questions)
 
 ## Description
 
-The Responsive Portfolio is a personalized website with a responsive design that can be rendered dynamically on a variety of devices and window or screen sizes. The navbar is consistent on each page and contains links to the About, Contact, and Portfolio pages. The website was created to have a responsive design by including the appropriate img-fluid and container-fluid tags. The website is also accessible through the use of semantic elements and the inclusion of appropriate alt tags for all of the pictures used in the application.
-
-In developing the application, an HTML validation service was used to ensure that each page had valid HTML. The application was built using HTML, CSS, and the Bootstrap CSS framework.
-
-## Preview of the Responsive Portfolio
-
-![About Me Preview](assets/images/aboutPreview.png)
-
-![Portfolio Preview](assets/images/portfolioPreview.png)
-
-## Links
-
-- [Github Repository](https://github.com/rh9891/ResponsivePortfolio/)
-
-## Built Using
-
-Listed below are the frameworks, libraries, and guides that made building this application possible:
-
-- [Bootstrap](https://reactjs.org/docs/context.html)
-- [CSS](https://www.w3schools.com/css/)
-- [HTML](https://getbootstrap.com/docs/4.5/getting-started/introduction/)
+Responsive Portfolio is a personalized website with a responsive design that can be rendered dynamically on a variety of devices and window or screen sizes. The navbar is consistent on each page and contains links to the About, Contact, and Portfolio pages. The website was created to have a responsive design by including the appropriate img-fluid and container-fluid tags. The website is also accessible through the use of semantic elements and the inclusion of appropriate alt tags for all of the pictures used in the application.
 
 ## License
 
